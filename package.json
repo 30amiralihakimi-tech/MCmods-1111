@@ -1,0 +1,11 @@
+{
+  "name": "mcmods",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MCmods — Minecraft mod browser for Modrinth and CurseForge",
+  "type": "module",
+  "scripts": {
+    "dev": "node dev-server.mjs",
+    "start": "node dev-server.mjs"
+  }
+}
